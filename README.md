@@ -1,2 +1,4 @@
 # SecondProject
-My second project learning Git
+My second project Learning Git, Hello Everyone.
+
+
